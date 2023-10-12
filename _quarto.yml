@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Zhenyu Xu"
+  search: true
+  cookie-consent: false
+  twitter-card: true
+  open-graph: true
+  site-url: https://<yourwebsite>.github.io
+  navbar:
+    left:
+      # - blog.qmd
+      - text: "Résumé"
+        href: cv.pdf
+    # right:
+      # - icon: github
+      #   href: https://github.com/
+      # - icon: twitter
+      #   href: https://twitter.com
+  # page-footer:
+  #   left: "You can write somethig here too."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
