@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zhenyu Xu",
+    "section": "",
+    "text": "I am currently a PhD student in Statistics at the University of Connecticut. As a research assistant, my primary focus revolves around clustered data analysis using Generalized Estimating Equations (GEE). In addition, I actively contribute to website development and clustering analysis as a part of the UConn EnergyStats team. I am also deeply involved in child maltreatment detection at the UConn Health Center. My educational background comprises a BS in Actuarial Science from both Heriot-Watt University and Southwestern University of Finance and Economics, along with an MS in Data Science from University College London."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "how do you wanna call your blog?",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 6, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]
