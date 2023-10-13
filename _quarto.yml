@@ -10,12 +10,12 @@ website:
   cookie-consent: false
   twitter-card: true
   open-graph: true
-  site-url: https://<yourwebsite>.github.io
+  site-url: https://zhenyu1029.github.io
   navbar:
     left:
       # - blog.qmd
-      - text: "Résumé"
-        href: cv.pdf
+      - text: "Resume"
+        href: zhenyuxu_cv.pdf
     # right:
       # - icon: github
       #   href: https://github.com/
